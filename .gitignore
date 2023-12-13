@@ -1,0 +1,6 @@
+*.csv
+*.pdf
+/pdfs
+/dataset
+downloader.py
+__pycache__
